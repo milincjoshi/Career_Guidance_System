@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+
+
+  <Ad>
+    <ImageUrl>~/App_Data/images/wallpaper_453920655.jpg</ImageUrl>
+    <AltarnateText>This is my image</AltarnateText>
+    <NavigateUrl>welcome.aspx</NavigateUrl>
+    <Height>200</Height>
+    <Width>
+      200
+    </Width>
+    <impressions>1</impressions>
+
+
+  </Ad>
+
+
+
+  <Ad>
+
+    <ImageUrl>~/App_Data/images/wallpaper_715320456.png</ImageUrl>
+    <AltarnateText>this is my image</AltarnateText>
+    <NavigateUrl>welcome.aspx</NavigateUrl>
+    <Height>200</Height>
+    <Width>200</Width>
+    <impressions>1</impressions>
+
+  </Ad>
+
+  <Ad>
+
+    <ImageUrl>~/App_Data/images/wallpaper_927903337.jpg</ImageUrl>
+    <AltarnateText>this is my image</AltarnateText>
+    <NavigateUrl>welcome.aspx</NavigateUrl>
+    <Height>200</Height>
+    <Width>200</Width>
+    <impressions>1</impressions>
+
+  </Ad>
+
+  <Ad>
+
+    <ImageUrl>photo/4.jpeg</ImageUrl>
+    <AltarnateText>this is my image</AltarnateText>
+    <NavigateUrl>welcome.aspx</NavigateUrl>
+    <Height>200</Height>
+    <Width>200</Width>
+    <impressions>1</impressions>
+
+  </Ad>
+
+
+</Advertisements>
